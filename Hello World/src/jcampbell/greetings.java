@@ -6,8 +6,9 @@ public class greetings {
 		// TODO Auto-generated method stub
 			String Javaughn = args[0];
 			String Campbell = args[1];
-			System.out.println("Hello " + Javaughn + " " + Campbell); System.out.println("Congratulations on your second program!");
-		}
+			System.out.println("Hello  Javaughn Campbell");
+			System.out.println("Congratulations on your second program!");
 	}
+}
 
 
