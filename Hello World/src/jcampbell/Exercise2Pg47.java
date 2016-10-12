@@ -1,5 +1,5 @@
 /*
- * Exercise 2 on Page 47
+ * Exercise 2 on Page 47 
  * Created on September 14, 2016
  * Made by Javaughn Campbell
  */
