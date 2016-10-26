@@ -1,4 +1,5 @@
-/* 
+/*
+ * AboutMe.java 
  * About Me Exercise  
  * Created on September 13,2016 
  * By Javaughn Campbell
@@ -13,7 +14,7 @@ public class AboutMe {
 		System.out.println("Javaughn"+" C");
 		System.out.println("Christina"+"Kemp");
 		System.out.println("RunnyMede"+" C.I");
-		System.out.println("Get"+" Money"+" Ravens");
+		System.out.println("\"Get Money Ravens\"");
 		// Output Current schedule
 		System.out.println( );
 		System.out.format("%-15s %10s %10s","Class ","Period ","Time");
