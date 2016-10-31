@@ -2,9 +2,11 @@ package campbell;
 
 import java.util.Scanner;
 /*
+ * ArithmeticExpressions.java
  * Arithmetic Expressions assignment
- * made by javaughn
+ * made by Javaughn Campbell
  * Created on September 27, 2016
+ * Displays numbers corresponding with the 5 numbers the user inputed, while providing thw correct answers for each statement.
  */
 
 public class ArithmeticExpressions {
@@ -35,7 +37,7 @@ public class ArithmeticExpressions {
 	System.out.println("The result of subtracting the secound from the third is "+sub+"\n");
 	
 	int product = (num1*num5); 
-	System.out.println("The product if the first and fifth numbers is "+product+"\n");
+	System.out.println("The product of the first and fifth numbers is "+product+"\n");
 	
 	int quotient = (num4/num2);
 	System.out.println("The quotient of the fourth number divided by the secound is "+ quotient+"\n");

@@ -1,9 +1,11 @@
 package campbell;
 
 /*
+ * QuadraticEquation.Java
  * Quadratic Equation
  * Created on September 30, 2016
- * Made b Javaughn Campbell
+ * Made by Javaughn Campbell
+ * Displays the answer of the quadratic equation when the user enters the 3 variables
  */
 
 import java.util.Scanner;
