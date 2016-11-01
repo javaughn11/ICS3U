@@ -1,8 +1,4 @@
-/*
- *  Project on exercise 11 on pg. 75
- *  created on October 13, 2016
- *  Made by Javaughn Campbell 
- */
+
 package campbell;
 
 import java.text.DecimalFormat;
