@@ -1,4 +1,4 @@
-/*
+/**
  * Random1.java
  * Exercise 1, Random 1
  * Created on November 14, 2016

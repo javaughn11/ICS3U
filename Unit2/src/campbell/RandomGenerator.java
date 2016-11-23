@@ -1,4 +1,4 @@
-/* 
+/** 
  *RandomGenerator.java
  *Random Generator, exercise 8 on page 95
  *Created on November 15, 2016

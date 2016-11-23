@@ -1,4 +1,4 @@
-/*
+/**
  * Random2.java
  * Exercise 2, Random 2
  * Created on November 11, 2016
