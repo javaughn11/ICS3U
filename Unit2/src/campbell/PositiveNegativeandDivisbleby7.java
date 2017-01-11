@@ -22,6 +22,7 @@ public class PositiveNegativeandDivisbleby7 {
 		number = scan.nextInt();
 		
 		if (number > 0)
+			
 			System.out.println("\nYour number is positive");
 		
 		else

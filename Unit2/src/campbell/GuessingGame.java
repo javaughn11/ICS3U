@@ -3,7 +3,7 @@
  * Guessing game, exercise 9 on page 96
  * Created on November 23, 2016
  * Made by Javaughn Campbell
- * Program displays a guessing game where the users number must match the computers number
+ * Program displays a guessing game where the users number must match the computers number+-------------
  */
 
 package campbell;

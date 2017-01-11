@@ -1,6 +1,6 @@
 package campbell;
 
-/*
+/**
  * Eggs.java
  * Eggs, exercise 3 on page 93
  * Created on November 4,2016
@@ -21,7 +21,8 @@ public class Eggs {
 		
 		double egg;
 		
-		System.out.println("Enter the number of eggs:");egg = scan.nextDouble() ;
+		System.out.println("Enter the number of eggs:");
+		egg = scan.nextDouble() ;
 		egg = egg/12;		
 				
 				
